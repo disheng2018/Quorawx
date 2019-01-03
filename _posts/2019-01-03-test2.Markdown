@@ -2,12 +2,12 @@
 layout:     post                      # 使用的布局（不需要改）
 title:      我的第2篇博客：kramdown                 # 标题 
 subtitle:                             # 副标题
-date:       2018-05-01                # 时间
+date:       2020-03-22                # 时间
 author:     涤生                      # 作者
 header-img:                           # 这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                 # 标签
-      - 测试
+      - markdown
 ---
 >这是引用
 * @Author: zjloved
