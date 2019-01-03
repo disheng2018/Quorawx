@@ -17,10 +17,10 @@ sidebar-avatar: /img/my-profile.jpg      # use absolute URL, seeing it's used in
 
 
 # SNS settings
-RSS: true
+#RSS: true
 #github_username:    con06
 #facebook_username:  baiqiu.7
-jianshu_username:   橘子的简书ovo
+#jianshu_username:   橘子的简书ovo
 
 
 
