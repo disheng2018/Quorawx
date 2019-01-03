@@ -17,10 +17,10 @@ sidebar-avatar: /img/my-profile.jpg      # use absolute URL, seeing it's used in
 
 
 # SNS settings
-#RSS: true
+RSS: true
 #github_username:    con06
 #facebook_username:  baiqiu.7
-#jianshu_username:   da147fba
+jianshu_username:   橘子的简书ovo
 
 
 
@@ -68,9 +68,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: 18b6b9f2cea795c9226d                            #生成的clientID
   clientSecret: d14524b083fad3e81fe7ce32ff49370b4711f33e    #生成的clientSecret
-  repo: congcong0806.github.io    #仓库名称
-  owner: congcong0806    #github用户名
-  admin: congcong0806
+  repo: disheng2018.github.io    #仓库名称
+  owner: disheng    #github用户名
+  admin: disheng2018
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
