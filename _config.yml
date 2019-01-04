@@ -11,7 +11,7 @@ github_repo: "https://github.com/disheng2018/disheng2018.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "<strong>学无止境：</strong><br>Android Studio<br>eDiary<br>Everything<br>PPTer<br>Total Commander<br>坚果云<br>Python"
+sidebar-about-description: "<strong>学无止境：</strong><br>Python在学<br>Android Studio在学<br>《魔之趣》APP编写者<br>优秀软件重度收集者<br>"Quora文选"微信公众号运营者<br>>>>本职是风电工程师<<<Total Commander<br>坚果Python"
 sidebar-avatar: /img/my-profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
