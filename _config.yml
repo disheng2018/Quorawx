@@ -98,3 +98,14 @@ featured-condition-size: 0              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+# Friends
+friends: [
+    {
+        title: "简书",
+        href: "https://www.jianshu.com/u/5da39ec0a6b4a"
+    },
+    {
+        title: "微博",
+        href: "https://weibo.com/zjloved"
+    }
+]
