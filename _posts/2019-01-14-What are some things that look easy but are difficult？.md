@@ -45,7 +45,3 @@ Respond on your time, not someone else.
 **Become notification-free.**
 
 ![image.png](https://upload-images.jianshu.io/upload_images/1695439-a000773f4166ef79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-<span style="color: rgb(70, 118, 217);">​    ▌</span>**<span style="color: rgb(136, 136, 136);">VOCABULARY:</span>**
-
-> - **pings**：
