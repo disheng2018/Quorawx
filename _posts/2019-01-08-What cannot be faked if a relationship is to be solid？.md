@@ -2,12 +2,13 @@
 layout:     post                      # 使用的布局（不需要改）
 title:      What cannot be faked if a relationship is to be solid?                 # 标题 
 subtitle:                             # 副标题
-date:       20189-01-08                # 时间
+date:       2019-01-08                # 时间
 author:     涤生                      # 作者
 header-img:                           # 这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                 # 标签
       - relationship
+      - 2019
 ---
 
 ### **What cannot be faked if a relationship is to be solid?**
