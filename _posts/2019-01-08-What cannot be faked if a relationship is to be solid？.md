@@ -15,10 +15,8 @@ tags:                                 # 标签
 
 <span style="color: rgb(255, 79, 121);"> Sean Kernan </span><span style="color: rgb(70, 118, 217);"> , Son of Quora
 </span>
-
 <span style="color: rgb(70, 118, 217);">Answered Dec 29
 </span>
-
 > **<span style="color: rgb(0, 128, 255);">​ 98.9k Views · 9.8k Upvotes
 > </span>**
 
