@@ -1,6 +1,6 @@
 # Site settings
-title: 涤小生
-SEOTitle: 涤小生
+title: Quora文选
+SEOTitle: Quora文选
 header-img: img/post-desk-bg.jpg
 email: zjl63258@126.com
 description: "eDiary, Everything, Total Commander, Python"
@@ -28,7 +28,7 @@ sidebar-avatar: /img/my-profile.jpg      # use absolute URL, seeing it's used in
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 100   # 每页条数
+paginate: 20   # 每页条数
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
