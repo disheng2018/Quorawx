@@ -5,7 +5,7 @@ header-img: img/post-desk-bg.jpg
 email: zjl63258@126.com
 description: "eDiary, Everything, Total Commander, Python"
 keyword: "eDiary, Everything, Total Commander, Python"
-url: "https://disheng2018.github.io/Quorawx/"          # your host, for absolute URL
+url: "https://disheng2018.github.io/Quorawx"          # your host, for absolute URL
 baseurl: "https://disheng2018.github.io/Quorawx"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/disheng2018/disheng2018.github.io.git" # you code repository
 
