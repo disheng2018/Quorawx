@@ -19,7 +19,7 @@ Updated Jul 28, 2017 </span>
 > **<span style="color: rgb(0, 128, 255);">463.8k Views · 3.1k Upvotes
 > </span>**
 
-![微信截图_20190113172325](素材/微信截图_20190113172325.png)
+![image.png](https://upload-images.jianshu.io/upload_images/1695439-6eb298f03f791b66.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **Following these 6 steps:**
 
@@ -44,7 +44,7 @@ Respond on your time, not someone else.
 
 **Become notification-free.**
 
-![微信截图_20190113172416](素材/微信截图_20190113172416.png)
+![image.png](https://upload-images.jianshu.io/upload_images/1695439-a000773f4166ef79.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 <span style="color: rgb(70, 118, 217);">​    ▌</span>**<span style="color: rgb(136, 136, 136);">VOCABULARY:</span>**
 
