@@ -53,6 +53,7 @@ If your <u>significant other</u> suddenly starts getting mad at the way you brus
 </span>**<span style="color: rgb(136, 136, 136);">
 ​    VOCABULARY:
 </span>**
+
 > - **thrice**：adv. 三次；三倍地；非常，十分；
 > - **span**：length of time over which sth lasts or extends from beginning to end （某事物）自始至终的持续时间或期间: the span of life 一生的时间；
 > - **quarters**：[pl] accommodation,esp for soldiers 住处; （尤指）营房: take up quarters in the nearest village 在最近的村中驻扎；
