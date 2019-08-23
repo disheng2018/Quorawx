@@ -18,7 +18,6 @@ tags:                                 # 标签
 > **<span style="color: rgb(0, 128, 255);">258.1k Views · 6.9k Upvotes
 > </span>**
 
-**If China has so much money to invest in other countries, why don't they develop the poor parts of China?**
 
 Which poor part of China do you refer to? Can you give just one specific example that China has failed or ignored to develop?
 
