@@ -102,7 +102,7 @@ service-worker: true
 friends: [
     {
         title: "简书",
-        href: "https://www.jianshu.com/u/5da39ec0a6b4"
+        href: "https://www.jianshu.com/u/2209f2adbf754"
     },
     {
         title: "微博",
