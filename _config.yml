@@ -3,8 +3,8 @@ title: Quora文选
 SEOTitle: Quora文选
 header-img: img/post-desk-bg.jpg
 email: zjl63258@126.com
-description: "eDiary, Everything, Total Commander, Python"
-keyword: "eDiary, Everything, Total Commander, Python"
+description: "Typora, Everything, Total Commander, Python"
+keyword: "Typora, Everything, Total Commander, Python"
 url: "https://disheng2018.github.io/Quorawx"          # your host, for absolute URL
 baseurl: "https://disheng2018.github.io/Quorawx"      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/disheng2018/disheng2018.github.io.git" # you code repository
@@ -102,7 +102,7 @@ service-worker: true
 friends: [
     {
         title: "简书",
-        href: "https://www.jianshu.com/u/2209f2adbf754"
+        href: "https://www.jianshu.com/u/2209f2adbf75"
     },
     {
         title: "微博",
