@@ -11,7 +11,7 @@ baseurl: "https://disheng2018.github.io/Quorawx"      # for example, '/blog' if 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "<strong>学无止境：</strong><br>Python在学<br>Android Studio在学<br>优秀软件重度收集者<br>\"Quora文选\"微信公众号运营者<br>>>>本职是风电工程师<<<"
+sidebar-about-description: "<strong>学无止境：</strong><br>Python在学<br>Android Studio在学<br>优秀软件重度收集者<br>\"Quora文选\"微信公众号运营者<br>>>>本职是电气工程师<<<"
 sidebar-avatar: /img/my-profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -104,10 +104,10 @@ friends: [
         title: "简书",
         href: "https://www.jianshu.com/u/2209f2adbf75"
     },
-    {
-        title: "微博",
-        href: "https://weibo.com/zjloved"
-    },
+    #{
+        #title: "微博",
+        #href: "https://weibo.com/zjloved"
+    #},
     {
         title: "微信公众号",
         href: "http://mp.weixin.qq.com/mp/homepage?__biz=MzI4NTMyMjA3Mg==&hid=1&sn=4c5a5b74cdab62dd82b8ff9f8b3d6494&scene=18#wechat_redirectd"
