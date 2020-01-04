@@ -37,4 +37,4 @@ Most importantly, never forget to live in the moment!
 >   - **zealous**: / ˈzeləs; ˋzɛləs/ adj full of zeal; eager 热情的; 热心的; 积极的: zealous for liberty and freedom 为争取自由而积极的;
 > - **work (under sb.)**： do work; engage in physical or mental activity 做工作; 从事体力劳动或脑力劳动: I've worked under her (ie with her as my boss) for two years. 我在她手下工作两年了。
 
-https://qr.ae/TSShAG
+[原文链接](https://qr.ae/TSShAG)
