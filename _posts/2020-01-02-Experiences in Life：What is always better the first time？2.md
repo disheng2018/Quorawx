@@ -1,6 +1,6 @@
 ---
 layout:     post                        # 使用的布局（不需要改）
-title:      Experiences in Life: What is always better the first time?
+title:      Experiences in Life：What is always better the first time?
 subtitle:                               # 副标题
 date:       2020-01-02                  # 时间
 author:     涤小生                       # 作者
