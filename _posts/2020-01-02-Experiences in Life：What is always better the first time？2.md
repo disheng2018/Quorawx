@@ -42,4 +42,4 @@ tags:                                   # 标签
 > - **lap**：/ læp; læp/ (n.) area formed by the upper part of a seated person's thighs （人坐着时）大腿的上方: Come and sit on Grandpa's lap! 来, 坐在爷爷的腿上！
 > - **post-retirement**：(adj.) relating to the time after someone has left their job and stopped working because they have reached a particular age: 退休后 
 
-https://qr.ae/TSxYtc
+[原文链接](https://qr.ae/TSxYtc)
