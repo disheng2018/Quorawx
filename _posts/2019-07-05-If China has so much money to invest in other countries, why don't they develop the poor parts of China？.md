@@ -7,7 +7,6 @@ author:     Quora文选                      # 作者
 header-img:                           # 这篇文章标题背景图片
 catalog: true                         # 是否归档
 tags:                                 # 标签
-      - Quora文选
       - 2019
 ---
 
